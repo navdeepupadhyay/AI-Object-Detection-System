@@ -1,0 +1,6 @@
+C:\Users\Navdeep\Downloads\Compressed\object-detection-opencv-master\object-detection-opencv-master\
+
+python yolo_opencv.py --image C:\Users\Navdeep\Downloads\Compressed\object-detection-opencv-master\object-detection-opencv-master\dog.jpg --config C:\Users\Navdeep\Downloads\Compressed\object-detection-opencv-master\object-detection-opencv-master\yolov3.cfg --weights C:\Users\Navdeep\Downloads\Compressed\object-detection-opencv-master\object-detection-opencv-master\yolov3.weights --classes C:\Users\Navdeep\Downloads\Compressed\object-detection-opencv-master\object-detection-opencv-master\yolov3.txt 
+
+
+$ python yolo_opencv.py --image dog.jpg --config yolov3.cfg --weights yolov3.weights --classes yolov3.txt 
